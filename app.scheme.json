@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Alfred Restaurant",
+    "slug": "alfred-restaurant-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "web": {
+      "bundler": "metro"
+    },
+    "userInterfaceStyle": "light",
+    "orientation": "portrait",
+    "updates": {
+      "enabled": true,
+      "checkAutomatically": "ON_ERROR_RECOVERY",
+      "fallbackToCacheTimeout": 30000
+    },
+    "splash": {
+      "resizeMode": "cover",
+      "hideExponentText": false,
+      "backgroundColor": "#4979d0"
+    }
+  }
+}
+
+
